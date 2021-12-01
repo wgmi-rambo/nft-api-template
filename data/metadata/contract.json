@@ -1,0 +1,8 @@
+{
+  "name": "XXX",
+  "description": "XXX",
+  "image": "ipfs://XXX",
+  "external_link": "https://www.XXX.XXX",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0xABCD"
+}
